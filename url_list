@@ -1,3 +1,11 @@
+URL stats :
+https://www.douane.gouv.fr/la-douane/opendata?op=&recherche_opendata=
+non-trié (national, régional, nomenclature, dernière publication nationale+régionale (/!\ 5 trimestres au 10/2023)
+keyword : | grabage | - | *egional (* = R or r) | - | year (YYYY or ce) | - | import/export |.zip
+
+- Create a function to retrieve all the targeted links from url
+- Sort the links by type (export / import)
+
 Collected URL to analyze :
 
 https://www.douane.gouv.fr/sites/default/files/2023-10/06/202308-stat-regional-ce-import.zip 
